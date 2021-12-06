@@ -20,18 +20,18 @@ To start this guide a few things need to be cleared up:
 - Dump your console's firmware and install it in `AppData\Roaming\yuzu\nand\system\Contents\registered` (Drop all the .nca files from the firmware)
 - Make a bigger page file (for 8gb RAM users use 25000 for both values and 16gb+ RAM use 20000 for both values), needs a computer reboot to take effect.
 
-https://user-images.githubusercontent.com/65554156/144896068-eacc2048-b49b-4e92-b72e-6926f23d27a3.mp4
+<https://user-images.githubusercontent.com/65554156/144896068-eacc2048-b49b-4e92-b72e-6926f23d27a3.mp4>
 - Update your drivers to their latest version (sometimes newer drivers can have issues with yuzu, so the linked ones are the most optimal)
 
 ### Windows 10/11
-- Nvidia (desktop) - https://developer.nvidia.com/vulkan-beta-47277-windows-1110
-- Nvidia (laptops) - https://developer.nvidia.com/vulkan-beta-47277-windows-1110
-- AMD 21.11.3 - https://www.amd.com/en/support/apu/amd-ryzen-processors/amd-ryzen-5-desktop-processors-radeon-vega-graphics/amd-ryzen-5-1
-- Intel 101.1069 - https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-10-windows-11-dch-drivers.html
-- (Intel laptops and prebuilt computer users with old driver versions might need to follow this video tutorial: https://www.youtube.com/watch?v=BZG50Nm5sOM&)
+- Nvidia (desktop) - <https://developer.nvidia.com/vulkan-beta-47277-windows-1110>
+- Nvidia (laptops) - <https://developer.nvidia.com/vulkan-beta-47277-windows-1110>
+- AMD 21.11.3 - <https://www.amd.com/en/support/apu/amd-ryzen-processors/amd-ryzen-5-desktop-processors-radeon-vega-graphics/amd-ryzen-5-1>
+- Intel 101.1069 - <https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-10-windows-11-dch-drivers.html>
+- (Intel laptops and prebuilt computer users with old driver versions might need to follow this video tutorial: <https://www.youtube.com/watch?v=BZG50Nm5sOM&>)
 
 ### Linux
-- https://github.com/yuzu-emu/yuzu/wiki/Recommended-GPU-Drivers-for-Linux
+- <https://github.com/yuzu-emu/yuzu/wiki/Recommended-GPU-Drivers-for-Linux>
 - Nvidia - Use what your distribution offers.
 - AMD - mesa-git, force AMDGPU on older first and second GCN products: <https://wiki.archlinux.org/title/AMDGPU#Enable_Southern_Islands_(SI)_and_Sea_Islands_(CIK)_support>.
 - Intel - mesa-git, the required Iris Gallium driver is enabled by default with mesa 20.
