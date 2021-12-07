@@ -20,7 +20,7 @@ To start this guide a few things need to be cleared up:
 - Dump your console's firmware and install it in `AppData\Roaming\yuzu\nand\system\Contents\registered` (Drop all the .nca files from the firmware)
 - Make a bigger page file (for 8gb RAM users use 25000 for both values and 16gb+ RAM use 20000 for both values), needs a computer reboot to take effect.
 
-<https://user-images.githubusercontent.com/65554156/144896068-eacc2048-b49b-4e92-b72e-6926f23d27a3.mp4>
+https://user-images.githubusercontent.com/65554156/144896068-eacc2048-b49b-4e92-b72e-6926f23d27a3.mp4
 - Update your drivers to their latest version (sometimes newer drivers can have issues with yuzu, so the linked ones are the most optimal)
 
 ### Windows 10/11
