@@ -1,3 +1,5 @@
+# This is purely a test with a text that I already had written down previously, don't take it as serious.
+
 # Best yuzu compatibility settings guide.
 
 Hello user!
